@@ -1,0 +1,21 @@
+.nav-brand{
+    font-size: 60px;
+    color: yellow;
+    margin-left: 30px;
+    font-style: italic;
+}
+
+.division{
+    width: auto;
+    height: 100px;
+    background-color: black;
+    margin-top: auto;
+}
+.nav-name{
+    color: yellow;
+    font-size: 25px;
+    margin-left: 300px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
